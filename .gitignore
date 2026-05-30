@@ -9,3 +9,4 @@ dist/
 build/
 *.egg-info/
 encryption_tool.log
+.test-temp/
