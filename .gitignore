@@ -5,3 +5,11 @@ __pycache__/
 .ruff_cache/
 .venv/
 venv/
+
+
+dist/
+build/
+*.egg-info/
+encryption_tool.log
+.test-temp/
+
